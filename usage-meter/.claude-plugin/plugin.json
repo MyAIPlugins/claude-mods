@@ -1,0 +1,8 @@
+{
+  "name": "usage-meter",
+  "version": "0.1.0",
+  "description": "Riga sopra il prompt con la % del limite settimanale (e 5h) dell'abbonamento e il tempo al reset",
+  "author": { "name": "MyAIPlugins" },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}

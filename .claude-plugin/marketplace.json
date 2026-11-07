@@ -1,0 +1,12 @@
+{
+  "name": "claude-mods",
+  "description": "Mod per Claude Code, terminale e desktop",
+  "owner": { "name": "MyAIPlugins" },
+  "plugins": [
+    {
+      "name": "usage-meter",
+      "source": "./usage-meter",
+      "description": "Riga sopra il prompt con la % del limite settimanale (e 5h) dell'abbonamento e il tempo al reset"
+    }
+  ]
+}
